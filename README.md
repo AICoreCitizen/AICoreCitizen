@@ -1,17 +1,19 @@
-# Welcome to the AICore Bootcamp Data Engineering Repository ✨
+# Welcome to Abraham's AICore Bootcamp Data Engineering Repository ✨
 
-Greetings, fellow enthusiasts! 👋 Dive into the heart of data engineering excellence with the AICore Bootcamp's Data Engineering Specialist path. This repository serves as a dynamic showcase of the comprehensive journey undertaken through various modules, each contributing to a robust skill set in the realm of data engineering.
+Greetings, fellow enthusiasts! 👋 Dive into the heart of data engineering excellence with me on the AICore Bootcamp's Data Engineering Specialist path. This repository serves as a dynamic showcase of the comprehensive journey undertaken through various modules, each contributing to a robust skill set in the realm of data engineering.
 
-'''python
-abs  = {
-    'name':'Abraham Audu',
-    'location':'London, UK',
-    'bootcamp computer languages':['python', 'SQL', 'json', 'yaml'],
-    'aws cloud services':['cli', 'ec2','s3', 'iam', 'amazon rds', 'kafka', 'spark', 'airflow', 'databricks', 'kinesis'],
-    'profession':['senior consultant', 'technical program manager'],
+```python
+abs = {
+    'name': 'Abraham Audu',
+    'location': 'London, UK',
+    'bootcamp computer languages': ['python', 'SQL', 'json', 'yaml'],
+    'aws cloud services': ['cli', 'ec2', 's3', 'iam', 'amazon rds', 'kafka', 'spark', 'airflow', 'databricks', 'kinesis'],
+    'profession': ['senior consultant', 'technical program manager']
 }
-
-'''
+```
+[![LinkedIn](https://onedrive.live.com/embed?resid=A2D9CDEC6C07694B%21312296&authkey=%21ADPWtzaMqQH_6n0&width=48&height=48)](https://www.linkedin.com/in/abraham-audu-39ba8927/)
+[![Twitter](https://onedrive.live.com/embed?resid=A2D9CDEC6C07694B%21312391&authkey=%21ANFnY3forRc5Olc&width=48&height=48)](https://twitter.com/abraham_audu_7)
+[![Github](https://onedrive.live.com/embed?resid=A2D9CDEC6C07694B%21312252&authkey=%21AI_zh6e5JeF8zfA&width=48&height=48)](https://github.com/ReturnOfAbs/ReturnOfAbs)
 
 ## Purpose of the Repository
 
